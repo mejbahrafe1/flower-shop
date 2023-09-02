@@ -1,0 +1,46 @@
+/* shared style  */
+
+
+
+/* header style  */
+.header {
+    background-color: rgba(229, 84, 115, 0.10);
+
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 95px;
+}
+
+.header-item {
+    padding-left: 200px;
+
+}
+
+.header-title {
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+
+
+}
+
+.header-discription {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.header-btn {
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 8px;
+    background-color: #E55473;
+    border: 0 ;
+    padding:20px 43px;
+}
